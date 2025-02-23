@@ -11,6 +11,7 @@ __plugin_meta__ = PluginMetadata(
     name="nonebot-plugin-whois",
     description="一个Nonebot2插件用于查询域名的whois信息",
     usage="/whois [域名] [-all]",
+    type="application",
     homepage="https://github.com/Maizi-G/nonebot-plugin-whois",
     supported_adapters={"~onebot.v11"},
 )

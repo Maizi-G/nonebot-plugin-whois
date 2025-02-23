@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-whois"
-version = "1.0.0"
+version = "1.0.1"
 description = "一个Nonebot2插件用于查询域名的whois信息"
 readme = "README.md"
 authors = ["Maizi <maizicncn@gmail.com>"]
@@ -8,7 +8,7 @@ license = "GPL-3.0"
 homepage = "https://github.com/Maizi-G/nonebot-plugin-whois"
 repository = "https://github.com/Maizi-G/nonebot-plugin-whois"
 documentation = "https://github.com/Maizi-G/nonebot-plugin-whois#readme"
-keywords = ["nonebot2", "BankCard","binsearch"]
+keywords = ["nonebot2", "domain","whois"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
