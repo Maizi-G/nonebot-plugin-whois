@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nonebot-plugin-whois"
-version = "1.0.4"
+version = "1.0.5"
 description = "一个Nonebot2插件用于查询域名的whois信息"
 readme = "README.md"
 authors = ["Maizi <maizicncn@gmail.com>"]
